@@ -1,0 +1,3 @@
+interface:
+  display_name: "Codex × DeepSeek 人工交接"
+  short_description: "由 Codex 设计与验收，生成 DeepSeek 可执行的任务单和返工单，用户人工传递成果"
